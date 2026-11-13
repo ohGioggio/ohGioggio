@@ -46,10 +46,10 @@ A small, readable reference for building on LangChain Deep Agents. One command-l
 
 ## Toolbox
 
-**Languages:** Python, TypeScript, C#, C++, Java, C
-**AI:** GraphRAG, RAG, knowledge graphs, vector search, LangChain Deep Agents, Mem0, Qdrant, Neo4j
-**Web:** NestJS, React, Next.js, Tailwind CSS
-**3D and simulation:** NVIDIA Omniverse, OpenUSD, IsaacSim, Jetson
+- **Languages:** Python, TypeScript, C#, C++, Java, C
+- **AI:** GraphRAG, RAG, knowledge graphs, vector search, LangChain Deep Agents, Mem0, Qdrant, Neo4j
+- **Web:** NestJS, React, Next.js, Tailwind CSS
+- **3D and simulation:** NVIDIA Omniverse, OpenUSD, IsaacSim, Jetson
 
 ## Get in touch
 
